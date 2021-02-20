@@ -1,4 +1,5 @@
 # DEUCHAT
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/furkankayar/DEUCHAT/blob/master/LICENSE)<br><br>
 DEUCHAT is a chat application written in C Language.
 
 server.c handles requests coming from clients. It is multithreaded program.
